@@ -83,6 +83,11 @@
         text-align: left;
     }
 
+    .institucional__contacto-email 
+    {
+        display: block;
+    }
+    
     .institucional__video 
     {
         align-self: flex-end;
@@ -90,8 +95,5 @@
         width: 375px;
     }
 
-    .institucional__contacto-email 
-    {
-        display: block;
-    }
+   
 }
